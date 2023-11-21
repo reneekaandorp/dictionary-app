@@ -12,6 +12,15 @@ export default function App() {
           <Dictionary />
         </main>
       </div>
+      <br />
+      <footer>
+        This project was coded by{" "}
+        <a href="https://silly-llama-8d5577.netlify.app">Renee Kaandorp</a> and
+        is{" "}
+        <a href="https://app.netlify.com/sites/glistening-fudge-803a82/overview">
+          open-sourced on GitHub
+        </a>{" "}
+      </footer>
     </div>
   );
 }
